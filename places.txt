@@ -1,0 +1,5 @@
+Banglore Karanatak 60 22 0.732 
+Jodhpur Rajasthan 58 30 0.707 
+99Chandigarh Punjab 51 31 0.622
+Hakimpet Telangana 49 33 0.598
+Belgavi Karanatak 48 34 0.585
